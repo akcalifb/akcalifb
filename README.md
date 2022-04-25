@@ -1,4 +1,4 @@
-Hi 👋 My name is Ali Küçükakçalı
+Hi 👋 My name is Ali 
 ================================
 
 Front-End Developer
