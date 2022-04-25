@@ -4,11 +4,11 @@ Hi 👋 My name is Ali Küçükakçalı
 Front-End Developer
 -------------------
 
-This is the place where I opensource stuff and break things 
-🤣 🔭 I’m currently working on something cool 
-😉 🌱 I’m currently learning Javascript 
-💬 Ask me about anything related to Javascript
-<hr>
+*This is the place where I opensource stuff and break things 
+*🤣 🔭 I’m currently working on something cool 
+*😉 🌱 I’m currently learning Javascript 
+*💬 Ask me about anything related to Javascript
+
 * 🌍  I'm based in Adana
 * ✉️  You can contact me at [ceasali1907@gmail.com](mailto:ceasali1907@gmail.com)
 
